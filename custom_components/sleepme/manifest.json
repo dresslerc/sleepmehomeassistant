@@ -1,0 +1,11 @@
+{
+    "domain": "sleepme",
+    "name": "Sleep.me Climate",
+    "version": "1.0.0",
+    "documentation": "https://www.example.com",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["requests"],
+    "config_flow": true
+  }
+  
