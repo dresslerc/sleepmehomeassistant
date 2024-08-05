@@ -6,3 +6,6 @@ https://sleep.me/product/dock-pro-sleep-system
 
 This code was 85% written by ChatGPT 4o.  I did final touches to make it work.  There are still a few things that need to be worked out.  But should be functional.
 
+# Donations
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="dresslerc" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
